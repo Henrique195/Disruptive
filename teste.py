@@ -14,6 +14,7 @@ solucao_reconhecimento_rosto = mp.solutions.face_detection
 reconhecedor_de_rostos = solucao_reconhecimento_rosto.FaceDetection()
 
 desenho = mp.solutions.drawing_utils
+#123425
 
 while True:
 
